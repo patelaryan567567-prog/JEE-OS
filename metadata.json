@@ -1,0 +1,6 @@
+{
+  "name": "StudyOS - Student Productivity & JEE Exam Management",
+  "description": "Modern student productivity and study management workspace designed for Class 11-12 students preparing for competitive exams like JEE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
